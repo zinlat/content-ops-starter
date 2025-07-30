@@ -3,13 +3,13 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: ''
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Minna Japan Direct Store
     plans:
       - title: Developers
         price: Free
@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/1.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
@@ -55,7 +55,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/2.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:

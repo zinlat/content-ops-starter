@@ -1,17 +1,18 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Title",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -28,7 +29,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Products",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +38,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Contact me",
             "altText": "Dropdown",
             "links": [
                 {

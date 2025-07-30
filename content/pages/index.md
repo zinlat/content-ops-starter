@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes hereMinna Japan Direct Store
+    subtitle: Minna Japan Direct Store
     text: >+
       \* ဂျပန်မှာ Shopping ထွက်နေရသလို  vibe မျိုး ဖြစ်မဲ့ နေရာလေးကတော့ Minna
       Store ဖြစ်မှာ သေချာပါတယ်ရှင်\* ဂျပန်နိုင်ငံထုတ် အစားအသောက်၊

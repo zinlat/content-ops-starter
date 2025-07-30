@@ -8,21 +8,22 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Minna Japan Direct Store
-    text: >+
+    text: >
       \* ဂျပန်မှာ Shopping ထွက်နေရသလို  vibe မျိုး ဖြစ်မဲ့ နေရာလေးကတော့ Minna
       Store ဖြစ်မှာ သေချာပါတယ်ရှင်\* ဂျပန်နိုင်ငံထုတ် အစားအသောက်၊
       နေ့စဉ်အသုံးဆောင်၊ Skincare၊ Makeup ပစ္စည်းများကို တစ်နေရာတည်းမှာ
       တစ်စုတစ်ဝေးတည်းဝယ်ယူရရှိနိုင်တဲ့ One-Stop Japan Store\*
-      စျေးနှုန်းလေးတွေကလည်း Company Direct မို့ လုံးဝ(လုံးဝ) Low Cost
-      ပါနော်![](https://static.xx.fbcdn.net/images/emoji.php/v9/t2/1/16/1f60d.png)\*
+      စျေးနှုန်းလေးတွေကလည်း Company Direct မို့ လုံးဝ(လုံးဝ) Low Cost ပါနော်\*
       Location ကလည်း ရန်ကုန်မြို့ရဲ့ ဘယ်နေရာကပဲ လာလာ အချိန်မကုန်တဲ့
       နေရာလေးပေါ့\* ကိုယ်ရဲ့ Energy၊ Time၊ Budget သုံးမျိုးလုံး Save ဖြစ်တဲ့
-      နေရာလေးပါနော်![](https://static.xx.fbcdn.net/images/emoji.php/v9/t7b/1/16/1f44c.png)\*
-      ကဲ မြန်မြန်လေးသာ
-      လာဝယ်လိုက်ကြတော့နော်![](https://static.xx.fbcdn.net/images/emoji.php/v9/tea/1/16/1f970.png)![](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/1/16/1f3e0.png)No.34၊
-      မင်းလမ်း၊ ဆရာစံတောင်စံပြရပ်ကွက်၊ ဗဟန်း၊ ရန်ကုန်။09-88229989709-425953569
-      [#Minna](https://www.facebook.com/hashtag/minna?__eep__=6&__cft__\[0]=AZUpzuHhtXOCtQ83kTmLvpnMtOg3CwbcvmCZGB6bEBK5dSLCsn78apcXOOXfjis7nMQEHBbDMOpxpU8iKfpJRYpnO7J3nPKgpfc7L97FDJcUgRlaHRnHTS6IoCRVTSQLE7z-mLAzBVYUjiotYOS14GC_frvZ728b23PAyOZg-fmmvghdA5VmrbeY4YyAcjnM4r3Tkm7z5kBjb6T7g6aR2VK4&__tn__=*NK-R)
+      နေရာလေးပါနော်\* ကဲ မြန်မြန်လေးသာ လာဝယ်လိုက်ကြတော့နော်
 
+
+      No.34၊ မင်းလမ်း၊ ဆရာစံတောင်စံပြရပ်ကွက်၊ ဗဟန်း၊
+      ရန်ကုန်။09-88229989709-425953569 
+
+
+      [#Minna](https://www.facebook.com/hashtag/minna?__eep__=6&__cft__\[0]=AZUpzuHhtXOCtQ83kTmLvpnMtOg3CwbcvmCZGB6bEBK5dSLCsn78apcXOOXfjis7nMQEHBbDMOpxpU8iKfpJRYpnO7J3nPKgpfc7L97FDJcUgRlaHRnHTS6IoCRVTSQLE7z-mLAzBVYUjiotYOS14GC_frvZ728b23PAyOZg-fmmvghdA5VmrbeY4YyAcjnM4r3Tkm7z5kBjb6T7g6aR2VK4&__tn__=*NK-R)
     actions:
       - label: Get started
         altText: ''

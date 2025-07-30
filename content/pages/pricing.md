@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This
+    subtitle: ThisMinna Japan Direct Store
     plans:
       - title: Developers
         price: Free

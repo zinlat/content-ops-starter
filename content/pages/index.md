@@ -33,7 +33,9 @@ sections:
         type: Link
     media:
       url: /images/1.jpg
-      altText: Unblock
+      altText: >-
+        Bahan, Yangon, MyanmarAddressShared with Public    +95 9 882 299897   
+        MobileShared with Public    shinkolay@gmail.com    Email
       elementId: ''
       type: ImageBlock
     badge:
